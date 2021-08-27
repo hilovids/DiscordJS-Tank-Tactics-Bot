@@ -1,0 +1,19 @@
+{
+  "name": "TankTacticsDiscord",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.958.0",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0"
+  }
+}
